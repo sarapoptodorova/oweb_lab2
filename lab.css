@@ -1,0 +1,10 @@
+body {font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; background-color:wheat;}
+header {background-color: rgb(82, 52, 14); text-align: right; padding: .2em; border-radius: 10px;}
+fieldset p {color:rgb(141, 95, 35);}
+fieldset {border-color: rgb(82, 52, 14); box-shadow: 3px 5px 3px rgb(82, 52, 14); border-radius:10px;}
+fieldset h1 {color:rgb(82, 52, 14);}
+legend {color: rgb(82, 52, 14); font-size: large;}
+fieldset strong label{color: rgb(82, 52, 14);}
+fieldset label{color:rgb(141, 95, 35);}
+fieldset strong{color:rgb(82, 52, 14); }
+.submit_button {background-color:rgb(141, 95, 35); border-color:black;}
